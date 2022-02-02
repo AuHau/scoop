@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/AuHau/loggy/releases/download/v0.1.0/loggy-windows-386.zip",
+            "bin": [
+                "loggy.exe"
+            ],
+            "hash": "608733e9e6e3154938d46cfc7981f3f5abd3fd7fb52938f45bfa635e225a8a81"
+        },
+        "64bit": {
+            "url": "https://github.com/AuHau/loggy/releases/download/v0.1.0/loggy-windows-amd64.zip",
+            "bin": [
+                "loggy.exe"
+            ],
+            "hash": "75348ef3a5479ad6229165ddbd24b84439c45a9beff03d66db9fa6b3cbbd8ec2"
+        }
+    },
+    "homepage": "https://github.com/auhau/loggy",
+    "license": "MIT",
+    "description": "Swiss knife for logs."
+}
