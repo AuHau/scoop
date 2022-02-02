@@ -1,19 +1,19 @@
 {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/AuHau/loggy/releases/download/v0.1.0/loggy-windows-386.zip",
+            "url": "https://github.com/AuHau/loggy/releases/download/v0.1.1/loggy-windows-386.zip",
             "bin": [
                 "loggy.exe"
             ],
-            "hash": "608733e9e6e3154938d46cfc7981f3f5abd3fd7fb52938f45bfa635e225a8a81"
+            "hash": "71aa5d20d8e5bf3d04aae1f5dd2df30d00d15e7a7b11c95db30a1c14979d3ffb"
         },
         "64bit": {
-            "url": "https://github.com/AuHau/loggy/releases/download/v0.1.0/loggy-windows-amd64.zip",
+            "url": "https://github.com/AuHau/loggy/releases/download/v0.1.1/loggy-windows-amd64.zip",
             "bin": [
                 "loggy.exe"
             ],
-            "hash": "75348ef3a5479ad6229165ddbd24b84439c45a9beff03d66db9fa6b3cbbd8ec2"
+            "hash": "ef99a93cedd925a5a48e52d17f46ea7f5f6a1f7daec09328ac289feb453ebf09"
         }
     },
     "homepage": "https://github.com/auhau/loggy",
